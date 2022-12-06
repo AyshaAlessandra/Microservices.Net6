@@ -72,9 +72,9 @@
 
 > Instruções para baixar.
 
-Separei o projeto por pasta, e o que fui fazendo em cada uma. a pasta do projeto finalizado é 24, entrar na pasta e exutar apoenas ela. 
+Separei o projeto por pasta, e o que fui fazendo em cada uma. a pasta do projeto finalizado é 24, entrar na pasta e executar apenas ela. 
 dentro de cada projeto, há uma pasta chamada **_Properties_** dentro desta pasta há um arquivo chamado **launchSettings** neste arquivo, você irá configurar a porta onde o projeto irá subir. <br> 
-No arquivo chamado **_appsettings_** você ira configurar o banco de dados. há um arquivo .rar de como rodei o projeto em minha máquina e suas configurações. Não esqueçam de criar um banco de dados para os microsserviços de; <br>
+No arquivo chamado **_appsettings_** você irá configurar o banco de dados. Há um arquivo .rar de como rodei o projeto em minha máquina e suas configurações. Não esqueçam de criar um banco de dados para os microsserviços de; <br>
 
 ```
 - [x] geek_shopping_cart_api
